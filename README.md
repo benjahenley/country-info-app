@@ -6,7 +6,16 @@ This repository contains both the **frontend** (Next.js/React) and **backend** (
 
 ### Folder Structure
 
-country-info-app/ ├── frontend/ # Frontend project (Next.js) │ ├── package.json │ ├── .env │ └── src/ ├── backend/ # Backend project (Express.js) │ ├── package.json │ ├── .env │ └── src/ └── README.md 
+country-info-app/
+├── frontend/             
+│   ├── package.json
+│   ├── .env
+│   └── src/
+├── backend/            
+│   ├── package.json
+│   ├── .env
+│   └── src/
+└── README.md           
 
 # Project documentation
 
