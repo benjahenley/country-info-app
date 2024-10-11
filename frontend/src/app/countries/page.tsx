@@ -21,8 +21,6 @@ const CountriesPage = () => {
       .catch((error) => console.error(error));
   }, []);
 
-  console.log(countries);
-
   return (
     <section className="bg-gray-100 min-h-[100vh]">
       <Banner>Countries List</Banner>

@@ -54,7 +54,7 @@ app.get("/api/country/:code", async (req, res) => {
 
     res.json({
       name: countryName,
-      borders: countryInfo.data.borders,
+      borders: countryInfo.data.borders || [],
       population: populationData.data.data,
       flag: flagData.data.data.flag,
     });
