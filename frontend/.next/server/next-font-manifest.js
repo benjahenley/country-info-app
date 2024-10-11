@@ -1,1 +1,0 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/benjaminhenley/Desktop/country-info-app/country-info-app-frontend/src/app/layout\":[\"static/media/c44738e2d67c7de3-s.p.ttf\",\"static/media/1002a070cd2963ed-s.p.ttf\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
