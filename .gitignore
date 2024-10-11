@@ -1,0 +1,4 @@
+/country-info-app-backend/node_modules
+/country-info-app-frontend/node_modules
+/country-info-app-backend/.env
+/country-info-app-frontend/.env
