@@ -159,9 +159,3 @@ The **frontend** and **backend** are separated into different folders to allow f
 - The frontend runs on port **3000**.
 - The backend runs on port **9000**.
 - Ensure both servers are running to allow the frontend to communicate with the backend.
-
----
-
-## 📚 License
-
-This project is licensed under the MIT License.
